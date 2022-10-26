@@ -1,0 +1,6 @@
+A001 Sam_Spade
+A015 Sara_Spade
+A211 Hercule Poirot
+A121 Sherlock_Holmes
+A151 Kennedy_Jacobs
+B121 Sharon_Holmes
